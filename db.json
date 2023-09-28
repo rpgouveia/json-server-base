@@ -17,6 +17,12 @@
       "password": "$2b$10$uBoVKzZuUmeptRKZGwi4W.BTOhvshAvuJbbA1LURWZY2abV5CUUMu",
       "name": "Mime",
       "id": 3
+    },
+    {
+      "email": "douglas.w@mime.com.br",
+      "password": "$2b$10$eATL06Iy4eN/csYvto3oD.zd0CIE/MgeLijdr/YjljVktX8YOdlTe",
+      "name": "Mime",
+      "id": 4
     }
   ],
   "tracks": [
